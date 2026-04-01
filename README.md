@@ -10,6 +10,8 @@
             JavaScript (ES6+)
             React-Toastify (NPM Package)
             JSON (for product data)
+    - 3 Features about your project. 
+       answer
     
     
  

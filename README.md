@@ -11,7 +11,10 @@
             React-Toastify (NPM Package)
             JSON (for product data)
     - 3 Features about your project. 
-       answer
+       Answer:
+            Responsive Design – Works well on desktop, tablet, and mobile.
+            Data Management – Add, view, and update information easily.
+            Interactive UI – Buttons and forms provide smooth user interaction.
     
     
  
